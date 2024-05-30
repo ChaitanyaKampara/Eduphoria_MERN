@@ -2,7 +2,7 @@ version: "3.8"
 services:
   api-server:
     build: ./server
-    image: preethamjayam/api-server:latest   
+    image: preethamjayam/api-server:latest    
     container_name: node-api
     restart: always
     ports:
