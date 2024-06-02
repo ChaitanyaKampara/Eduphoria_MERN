@@ -4,7 +4,7 @@
 Welcome to Eduphoria, an e-learning platform built using the MERN stack. Eduphoria offers a comprehensive set of features for teachers, students, and administrators, facilitating seamless learning and management within the platform.
 
 ## Table of Contents
-
+ 
 - [Deployment Links](#deployment-links)
 - [Screenshots](#screenshots)
 - [How to Run](#how-to-run)
