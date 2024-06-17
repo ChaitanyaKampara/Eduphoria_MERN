@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const checkAuth = require('../middleware/isAuth');
-const StudentController = require('../controllers/student');
+const StudentController = require('../controllers/student'); 
 
 /**
  * @swagger
